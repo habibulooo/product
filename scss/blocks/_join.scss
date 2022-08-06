@@ -1,0 +1,43 @@
+.join {
+    padding-top: 150px;
+}
+.join__container {
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.join__body {
+    width: 970px;
+    height: 345px;
+    padding: 50px 0px 50px 50px;
+    display: flex;
+    box-sizing: border-box;
+    background: #02897A;
+    border-radius: 32px;
+    align-items: center;
+    justify-content: space-between;
+}
+.join__left {
+}
+.join__title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 151.4%;
+    color: #FFFFFF;
+    margin-bottom: 40px;
+
+}
+.join__btn {
+    padding: 15px 30px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #02897A;
+    background-color: white;
+    border-radius: 8px;
+}
+.join__img {
+}
